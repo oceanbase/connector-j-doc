@@ -1,4 +1,5 @@
 2.what-is-oceanbase-connector-j=什么是 OceanBase Connector J
+<<<<<<< HEAD
 3.user-guide=使用指南
 3.basic-operations=基本操作
 6.java-data-stream=Java 数据流
@@ -10,5 +11,18 @@
 16.common-interfaces=常用接口
 17.reference-information=参考信息
 4.features-specific-to-oracle-mode=Oracle 模式特有功能
+=======
+4.user-guide=使用指南
+2.basic-operations=基本操作
+3.data-source-and-url=数据源和 URL 参数
+4.java-data-stream=Java 数据流转换
+3.use-lob=LOB 数据类型
+7.use-result-set=结果集
+8.call-statement-cache=Statement 缓存
+9.failover-and-load-balancing-1=负载均衡
+5.reference-information=参考信息
+1.features-specific-to-oracle-mode=Oracle 模式特有功能
+>>>>>>> fb572e6d555100f66d8897470d2d7bfb6d1c5292
 1.binary-protocol=二进制协议（Prepared Statements）
 5.distributed-transactions=分布式事务
+3.common-interfaces=常用接口
