@@ -1,7 +1,7 @@
 1.what-is-oceanbase-connector-j=什么是 OceanBase Connector J
 2.install-connection=安装与连接
 3.user-guide=使用指南
-1.basic-operations=快速入门
+1.quick-start=快速入门
 2.data-source-and-url=数据源和 URL
 3.java-data-stream=Java 数据转换
 3.use-lob=LOB 数据类型
