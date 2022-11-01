@@ -4,7 +4,7 @@
 1.quick-start=快速入门
 2.data-source-and-url=数据源和 URL
 3.java-data-stream=Java 数据转换
-3.use-lob=LOB 数据类型
+3.lob-data-type=LOB 数据类型
 4.statement-cache=Statement 缓存
 7.result-set=结果集
 9.failover-and-load-balancing-1=负载均衡
