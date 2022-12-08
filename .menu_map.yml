@@ -7,7 +7,7 @@
 3.lob-data-type=LOB 数据类型
 4.statement-cache=Statement 缓存
 7.result-set=结果集
-9.failover-and-load-balancing-1=负载均衡
+9.failover-and-load-balancing=Failover 和 Load-Balancing
 4.reference-information=参考信息
 1.features-specific-to-oracle-mode=Oracle 模式特有功能
 1.binary-protocol=二进制协议（Prepared Statements）
