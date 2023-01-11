@@ -7,7 +7,7 @@
 3.use-lob=Use LOBs
 4.statement-cache=Statement caching
 7.result-set=Result set
-9.failover-and-load-balancing= Failover and Load-Balancing
+9.failover-and-load-balancing=Failover and Load-Balancing
 4.reference-information=Reference
 1.features-specific-to-oracle-mode=Features specific to the Oracle mode
 1.binary-protocol=Binary Protocol (Prepared Statements)
