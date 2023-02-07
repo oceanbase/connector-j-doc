@@ -13,3 +13,4 @@
 1.binary-protocol=二进制协议（Prepared Statements）
 5.distributed-transactions=分布式事务
 3.common-interfaces=常用接口
+5.version-release-records=版本发布记录
