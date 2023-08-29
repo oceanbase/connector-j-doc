@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.what-is-oceanbase-connector-j=What is OceanBase Connector J?
 2.install-connection=Install Driver
 3.user-guide=Instructions
@@ -16,3 +17,23 @@
 5.version-release-records=Release
 98.V2.4=V2.4
 99.V2.2=V2.2
+=======
+100.what-is-oceanbase-connector-j=What is OceanBase Connector J?
+200.install-connection=Install Driver
+300.user-guide=Instructions
+100.quick-start=Quick start
+200.data-source-and-url=Data sources and URL
+300.java-data-stream=Java data streams
+300.lob-data-type=Use LOBs
+400.statement-cache=Statement caching
+700.result-set=Result set
+900.failover-and-load-balancing=Failover and Load-Balancing
+400.reference-information=Reference
+100.features-specific-to-oracle-mode=Features specific to the Oracle mode
+100.binary-protocol=Binary Protocol (Prepared Statements)
+500.distributed-transactions=Distributed transactions
+300.common-interfaces=Common APIs
+500.version-release-records=版本发布记录
+9800.V2.4=V2.4
+9900.V2.2=V2.2
+>>>>>>> 6926022a25ca474baff2d47f56de09d68528e730
