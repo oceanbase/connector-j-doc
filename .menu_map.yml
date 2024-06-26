@@ -11,3 +11,5 @@
 400.features-specific-to-oracle-mode=Oracle 模式特有功能
 100.binary-protocol=二进制协议（Prepared Statements）
 500.distributed-transactions=分布式事务
+500.version-release-records=版本发布记录
+9900.V2.2=V2.2
