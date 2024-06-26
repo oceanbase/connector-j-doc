@@ -13,3 +13,5 @@
 100.binary-protocol=二进制协议（Prepared Statements）
 500.distributed-transactions=分布式事务
 300.common-interfaces=常用接口
+500.version-release-records=版本发布记录
+9900.V2.2=V2.2
