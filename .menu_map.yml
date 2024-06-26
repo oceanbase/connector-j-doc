@@ -10,3 +10,5 @@
 1600.reference-information=参考信息
 300.features-specific-to-oracle-mode=Oracle 模式特有功能
 400.distributed-transactions=分布式事务
+500.version-release-records=版本发布记录
+9900.V2.2=V2.2
