@@ -7,7 +7,7 @@
 300.lob-data-type=LOB 数据类型
 400.statement-cache=Statement 缓存
 700.result-set=结果集
-900.failover-and-load-balancing=Failover 和 Load-Balancing
+900.load-balancing=Load-Balancing
 400.reference-information=参考信息
 100.features-specific-to-oracle-mode=Oracle 模式特有功能
 100.binary-protocol=二进制协议（Prepared Statements）
