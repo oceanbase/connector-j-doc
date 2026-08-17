@@ -11,3 +11,5 @@
 400.features-specific-to-oracle-mode=Features specific to the Oracle mode
 100.binary-protocol=Binary Protocol (Prepared Statements)
 500.distributed-transactions=Distributed transactions
+500.version-release-records=Release Notes
+9900.V2.2=V2.2
