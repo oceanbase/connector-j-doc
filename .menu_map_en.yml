@@ -10,3 +10,5 @@
 1600.reference-information=Reference
 300.features-specific-to-oracle-mode=Features specific to the Oracle mode
 400.distributed-transactions=Distributed transactions
+500.version-release-records=Release Notes
+9900.V2.2=V2.2
